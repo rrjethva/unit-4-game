@@ -11,7 +11,7 @@ body {
     padding-bottom: 10px;
     align-items: center;
     font-family: 'Satisfy', cursive;
-    opacity: 0.5;
+    opacity: 0.8;
   }
 
 .target-number {
@@ -53,7 +53,9 @@ body {
 .panel-body {
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 25px;
-
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
 }
 
 .panel-title {
