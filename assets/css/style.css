@@ -12,7 +12,7 @@ body {
     align-items: center;
     font-family: 'Satisfy', cursive;
     opacity: 0.8;
-  }
+}
 
 .target-number {
     font-size: 30px;
@@ -36,7 +36,7 @@ body {
     margin-top: 10px;
     margin-bottom: 10px;
 }
- 
+
 .total-score {
     color: white;
     background-color: black;
@@ -56,12 +56,13 @@ body {
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 0px;
-    background: purple;
+    background: rgb(111, 25, 111);
     color: white;
+
 }
 
 .panel-title {
-    font-family: 'Gayathri', sans-serif;;
+    font-family: 'Gayathri', sans-serif;
     font-size: 30px;
     font-weight: bolder;
 }
